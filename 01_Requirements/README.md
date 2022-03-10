@@ -9,3 +9,4 @@
 | 5.| SWOT analysis |
 | 6.| Research |
 | 7.| Referances |
+| 8. | Advantages and disadvantages |
