@@ -14,9 +14,9 @@
 ## Contribution
 | Contents     | Contributer |
 | ---------------- | ------------ |
-| 1. RKE Syatem and Bicom system code 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
+| 1. RKE Syatem and BiCom system code, 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
 | | Syed Sufiyan Ali |
-| Git Repository | Sameer Ganvir |
+| Git Repository, Logic of Biom System, Architecture, Requirements | Sameer Ganvir |
 | Git Repository | Shashwat Sinha |
 
 ## Bagdes
