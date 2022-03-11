@@ -76,7 +76,7 @@
 ![SWOT](https://user-images.githubusercontent.com/42490038/157855447-79cc7132-5bc0-454d-9097-7e69177485a1.jpg)
 
 - ### BiCom System
-![5w_1h](https://user-images.githubusercontent.com/42490038/157858267-2536ecda-e6a3-4d5e-9421-0bb4ef43b18d.png)
+![SWOT_Analysis](https://user-images.githubusercontent.com/42490038/157858705-d9574940-1435-483f-8bd5-dd48c24d7fca.jpg)
 
 -----------------------------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@
 ![5W1H](https://user-images.githubusercontent.com/42490038/157857330-c253c58e-772a-418a-b864-9442a428c613.png)
 
 - ### BiCom System
-![5w_1h](https://user-images.githubusercontent.com/42490038/157856467-9f12f718-07d3-4b74-83d1-b01f3ec17d35.png)
+![5w_1h](https://user-images.githubusercontent.com/42490038/157858267-2536ecda-e6a3-4d5e-9421-0bb4ef43b18d.png)
 
 -----------------------------------------------------------------------------------------------------
 
