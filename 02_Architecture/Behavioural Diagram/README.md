@@ -1,1 +1,1 @@
-- This file contains behavioural diagram of systems
+- This folder contains behavioural diagram of systems
