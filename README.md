@@ -23,4 +23,4 @@
 | RKE System and BiCom system code implementation, test plan and output video | Vaishnavi Ankar  |
 | Git Repository                                                              | Syed Sufiyan Ali |
 | Logic of BiCom system, SWOT analysis and architecture                       | Sameer Ganvir    |
-| Abstract, features, high level and low level requirements, github workflow  | Shashwat Sinha   |
+| Abstract, features, high level and low level requirements, report  | Shashwat Sinha   |
