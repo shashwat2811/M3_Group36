@@ -24,4 +24,5 @@
 | Lable | Badge |
 | ------ | ------ |
 | Valgrind | [![Valgrind](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml) |
-| Build |
+| Build | [![Build](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml) |
+| Cpp-check | 
