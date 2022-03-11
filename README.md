@@ -12,9 +12,9 @@
 | 7_Other             | References                                                                                                      |
 
 ## Contribution
-| Collaborator     | Contribution |
+| Contents     | Contributer |
 | ---------------- | ------------ |
-| Vaishnavi Ankar  |              |
-| Syed Sufiyan Ali |              |
-| Sameer Ganvir    |              |
-| Shashwat Sinha   |              |
+| 1_Remote keyless entry code 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
+| | Syed Sufiyan Ali |
+|  | Sameer Ganvir |
+|  | Shashwat Sinha |
