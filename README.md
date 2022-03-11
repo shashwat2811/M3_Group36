@@ -16,5 +16,5 @@
 | ---------------- | ------------ |
 | 1. RKE Syatem and Bicom system code 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
 | | Syed Sufiyan Ali |
-|  | Sameer Ganvir |
-|  | Shashwat Sinha |
+| Git Repository | Sameer Ganvir |
+| Git Repository | Shashwat Sinha |
