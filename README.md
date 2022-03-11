@@ -14,7 +14,7 @@
 ## Contribution
 | Contents     | Contributer |
 | ---------------- | ------------ |
-| 1_Remote keyless entry code 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
+| 1. RKE Syatem and Bicom system code 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
 | | Syed Sufiyan Ali |
 |  | Sameer Ganvir |
 |  | Shashwat Sinha |
