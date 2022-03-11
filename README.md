@@ -1,5 +1,7 @@
 # M3_Group36
 
+### This repository includes both RKE Syatem and BiCom system information.
+
 ## Project Folder Structure 
 | Folder              | Description                                                                                                     |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------- |
