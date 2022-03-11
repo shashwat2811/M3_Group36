@@ -1,6 +1,10 @@
 # M3_Group36
 
-### This repository includes both RKE Syatem and BiCom system information.
+## This repository includes both RKE System and BiCom system information.
+
+|  Build  | Static Check | Dynamic Check | Code Quality - Codacy | Code Quality - Codiga | Code Score - Codiga |
+| :-----: | :----------: | :-----------: | :-------------------: | :-------------------: | :-----------------: |
+|[![Build](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml) | [![Cppcheck](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml) | [![Valgrind](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b1a1ec0e03648d487deba953d02e5af)](https://www.codacy.com/gh/shashwat2811/M3_Group36/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shashwat2811/M3_Group36&amp;utm_campaign=Badge_Grade) | ![Codiga Badge](https://api.codiga.io/project/31879/status/svg) | ![Codiga Score](https://api.codiga.io/project/31879/score/svg) |
 
 ## Project Folder Structure 
 | Folder              | Description                                                                                                     |
@@ -14,19 +18,9 @@
 | 7_Other             | References                                                                                                      |
 
 ## Contribution
-| Contents     | Contributer |
-| ---------------- | ------------ |
-| Git Repository, RKE Syatem and BiCom system code, 3_Implementation, video, Test plan and output  |   Vaishnavi Ankar  |
-| Git Repository | Syed Sufiyan Ali |
-| Git Repository, Logic of BiCom System, Architecture, Requirements | Sameer Ganvir |
-| Git Repository | Shashwat Sinha |
-
-## Bagdes
-
-| Lable | Badge |
-| ------ | ------ |
-| Valgrind | [![Valgrind](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Valgrind.yml) |
-| Build | [![Build](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/Build.yml) |
-| Cpp-check | [![Cppcheck](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml) |
-| Codacy | 
-| Codiga |
+| Contents                                                                    | Contributer      |
+| :-------------------------------------------------------------------------- | ---------------- |
+| RKE System and BiCom system code implementation, test plan and output video | Vaishnavi Ankar  |
+| Git Repository                                                              | Syed Sufiyan Ali |
+| Logic of BiCom system, SWOT analysis and architecture                       | Sameer Ganvir    |
+| Abstract, features, high level and low level requirements, github workflow  | Shashwat Sinha   |

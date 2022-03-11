@@ -1,4 +1,4 @@
-# Test plan and output for the system
+# Test Plan and Output for the System
 
 ## High level test plan
 
