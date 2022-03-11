@@ -11,3 +11,10 @@
 | 6_ImagesAndVideos   | Images and videos showcasing project outputs                                                                    |
 | 7_Other             | References                                                                                                      |
 
+## Contribution
+| Collaborator     | Contribution |
+| ---------------- | ------------ |
+| Vaishnavi Ankar  |              |
+| Syed Sufiyan Ali |              |
+| Sameer Ganvir    |              |
+| Shashwat Sinha   |              |
