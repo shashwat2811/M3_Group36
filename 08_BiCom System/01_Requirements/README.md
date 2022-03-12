@@ -44,3 +44,7 @@
     - Battery status of the car is displayed when the switch is pressed thrice.
     - Door status of the car is displayed when the switch is pressed four times.
 -----------------------------------------------------------------------------------------------------
+
+## **SWOT Analysis**
+
+![image](https://user-images.githubusercontent.com/93757351/158003182-3d783b6c-37dd-43e8-8d24-d09af7d26f86.png)
