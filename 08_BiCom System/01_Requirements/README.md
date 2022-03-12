@@ -37,4 +37,10 @@
     
 ![image](https://user-images.githubusercontent.com/93757351/158003081-966361a6-b9ba-4ac7-8185-a85ead43d188.png)
 
-
+## **Features:**
+- ### BiCom System
+    - Window status of the car is displayed when the switch is pressed once.
+    - Alarm status of the car is displayed when the switch is pressed twice.
+    - Battery status of the car is displayed when the switch is pressed thrice.
+    - Door status of the car is displayed when the switch is pressed four times.
+-----------------------------------------------------------------------------------------------------
