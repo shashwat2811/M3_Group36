@@ -2,9 +2,9 @@
 
 ## This repository includes both RKE System and BiCom system information.
 
-| Code Quality - Codacy | Code Quality - Codiga | Code Score - Codiga |
-| :-------------------: | :-------------------: | :-----------------: |
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b1a1ec0e03648d487deba953d02e5af)](https://www.codacy.com/gh/shashwat2811/M3_Group36/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shashwat2811/M3_Group36&amp;utm_campaign=Badge_Grade) | ![Codiga Badge](https://api.codiga.io/project/31879/status/svg) | ![Codiga Score](https://api.codiga.io/project/31879/score/svg) |
+| Code Quality - Codacy | Code Quality - Codiga | Code Score - Codiga | Cpp check |
+| :-------------------: | :-------------------: | :-----------------: | :---------:|
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b1a1ec0e03648d487deba953d02e5af)](https://www.codacy.com/gh/shashwat2811/M3_Group36/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shashwat2811/M3_Group36&amp;utm_campaign=Badge_Grade) | ![Codiga Badge](https://api.codiga.io/project/31879/status/svg) | ![Codiga Score](https://api.codiga.io/project/31879/score/svg) |[![Cppcheck](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/shashwat2811/M3_Group36/actions/workflows/c-cpp.yml) | 
 
 ## Project Folder Structure 
 | Folder              | Description                                                                                                     |
