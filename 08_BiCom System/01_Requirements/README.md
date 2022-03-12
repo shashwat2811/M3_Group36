@@ -53,3 +53,16 @@
 
 ![image](https://user-images.githubusercontent.com/93757351/158003236-6eaed35a-735f-4256-b24a-551d0224332d.png)
 
+## **High level requirements**
+
+- ### BiCom System
+    |   ID   | Description                                   |
+    | :----: | :-------------------------------------------- |
+    | HLR1.1 | Must display the window status of the vehicle |
+    | HLR1.2 | Must display the alarm status of the vehicle  |
+    | HLR1.3 | Must display the battery status of the vehicle |
+    | HLR1.4 | Must display the door status of the vehicle   |
+-----------------------------------------------------------------------------------------------------
+## **Low level requirements**
+
+
