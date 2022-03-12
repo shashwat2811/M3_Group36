@@ -29,3 +29,10 @@
         3. To show door status:
             Print door status (Blue switch press four times- All led on in anti-clockwise manner)
 -----------------------------------------------------------------------------------------------------
+
+## **Abstract:**
+- ### BiCom System
+    A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. This BiCom system offers increased security compared to uni-directional RKE system. Here, the key fob authenticates the vehicle before replying. Meaning the RKE transmits the specific frequency radio wave to the receiver and then the vehicle authenticates the fob by transmitting the status back.
+    This project provides an overview of BiCom systems and its functional design and requirements along with its analysis on various fronts and implementation. 
+
+![BiCom System](2022-03-11-14-12-48.png)
