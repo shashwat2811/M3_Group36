@@ -48,3 +48,8 @@
 ## **SWOT Analysis**
 
 ![image](https://user-images.githubusercontent.com/93757351/158003182-3d783b6c-37dd-43e8-8d24-d09af7d26f86.png)
+
+## **5W's 1H**
+
+![image](https://user-images.githubusercontent.com/93757351/158003236-6eaed35a-735f-4256-b24a-551d0224332d.png)
+
