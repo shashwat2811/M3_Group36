@@ -14,3 +14,5 @@
 ---------------------------------------------------------------------------
 
 ## **Problem Statement:**
+- ### BiCom System
+    - The BiCom system should perform the unidirectional features of the RKE. Along with that it should also communicate from the car to key fob by sending car status information to the keyfob display.
