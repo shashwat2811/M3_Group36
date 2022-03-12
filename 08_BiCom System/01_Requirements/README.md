@@ -65,4 +65,15 @@
 -----------------------------------------------------------------------------------------------------
 ## **Low level requirements**
 
-
+- ### BiCom System
+    |   ID   | Description                                                                   | HLRID  |
+    | :----: | :---------------------------------------------------------------------------- | ------ |
+    | LLR1.1 | Vehicle must display the window status when blue switch is pressed once       | HLR1.1 |
+    | LLR1.2 | All LEDs must turn on when blue switch is pressed once                        | HLR1.1 |
+    | LLR1.3 | Vehicle must display alarm status when blue switch is pressed twice           | HLR1.2 |
+    | LLR1.4 | All LEDs must turn off when blue switch is pressed twice                      | HLR1.2 |
+    | LLR1.5 | Vehicle must display battery status when blue switch is pressed thrice        | HLR1.3 |
+    | LLR1.6 | All LEDs must turn on in clockwise manner when blue switch is pressed thrice  | HLR1.3 |
+    | LLR1.7 | Vehicle must display door status when blue switch is pressed four times       | HLR1.4 |
+    | LLR1.8 | All LEDs must turn on in anti-clockwise manner when blue switch is four times | HLR1.4 |
+-----------------------------------------------------------------------------------------------------
