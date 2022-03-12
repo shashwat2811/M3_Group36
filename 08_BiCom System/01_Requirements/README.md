@@ -34,5 +34,7 @@
 - ### BiCom System
     A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. This BiCom system offers increased security compared to uni-directional RKE system. Here, the key fob authenticates the vehicle before replying. Meaning the RKE transmits the specific frequency radio wave to the receiver and then the vehicle authenticates the fob by transmitting the status back.
     This project provides an overview of BiCom systems and its functional design and requirements along with its analysis on various fronts and implementation. 
+    
+![image](https://user-images.githubusercontent.com/93757351/158003081-966361a6-b9ba-4ac7-8185-a85ead43d188.png)
 
 
